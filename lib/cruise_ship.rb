@@ -7,5 +7,5 @@ passengers = {
 }
 
 def select_winner(passengers)
-  passengers.suite_a
+  passengers.:suite_a
 end
